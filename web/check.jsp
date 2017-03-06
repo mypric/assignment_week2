@@ -33,7 +33,7 @@
             response.sendRedirect("home.jsp");
         }
         else{
-            throw new Exception("fuck");
+            throw new Exception("exp");
         }
     %>
 </body>
